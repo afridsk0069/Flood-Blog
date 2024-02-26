@@ -1,0 +1,104 @@
+h1 a {
+    color:red;
+    text-decoration: none;
+    font-size: 42px;
+    font-weight: 400;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+}
+
+header h2 {
+    color:black;
+    font-weight: 400;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+}
+
+header nav a {
+    color:lightgrey;
+    font-size: 22px;
+    margin-right: 16px;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color:lightgrey;
+    font-size: 32px;
+    font-weight: 400;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    margin-bottom: -10px;
+    padding-top: 20px;
+}
+
+article h2 a {
+    color:black;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 32px;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+}
+
+h4 a{
+    text-decoration: none;
+    color:red;
+    font-weight: 700;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    text-align: right;
+    border-bottom: 2px solid lightgray;
+    padding-bottom: 20px;
+}
+
+p {
+    color:grey;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    font-size: 18px
+}
+
+body {
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+footer nav a {
+    text-decoration: none;
+    color: red;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+footer nav {
+    padding-top: 26px;
+    padding-bottom: 20px
+}
+
+footer span {
+    color:lightgrey;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.nyc {
+    max-height: 300px;
+    width: 100%;
+}
+
+.paris {
+    height: 400px;
+    width: 100%;
+    object-fit: contain
+}
+
+p::first-letter {
+    font-size: 500%;
+    color: lightgrey;
+    float: left;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    margin-right: 10px;
+    margin-top: -14px;
+  }
+  
